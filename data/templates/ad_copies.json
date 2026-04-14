@@ -1,0 +1,26 @@
+[
+  {
+    "style": "persuasive",
+    "template": "Transform the way you experience {product}.\n\nJoin thousands of satisfied {audience} customers who already made the switch. Don\u2019t miss out on what everyone is talking about.\n\n\ud83d\udc49 Shop now and see the difference!"
+  },
+  {
+    "style": "informative",
+    "template": "Introducing {product} \u2014 built for {audience}.\n\nDesigned with cutting-edge technology and backed by real results. Learn how {product} can streamline your workflow and save you time.\n\n\ud83d\udcda Read more on our website."
+  },
+  {
+    "style": "playful",
+    "template": "Psst\u2026 {audience}, have you tried {product} yet? \ud83d\ude0f\n\nIt\u2019s kind of a game-changer. But don\u2019t take our word for it \u2014 try it yourself and prepare to be amazed!\n\n\ud83c\udf89 Grab yours today!"
+  },
+  {
+    "style": "persuasive",
+    "template": "Stop settling for less. {product} gives {audience} the edge they need.\n\nLimited-time offer: Get started today and enjoy an exclusive discount. Your future self will thank you.\n\n\u2b50 Claim your offer now!"
+  },
+  {
+    "style": "informative",
+    "template": "Why {audience} are choosing {product}:\n\n\u2705 Proven results\n\u2705 Easy to use\n\u2705 Trusted by industry leaders\n\nDiscover what makes {product} the smart choice.\n\n\ud83d\udd17 Visit our site to learn more."
+  },
+  {
+    "style": "playful",
+    "template": "Plot twist: {product} is exactly what {audience} didn\u2019t know they needed. \ud83c\udfac\n\nSpoiler alert \u2014 it\u2019s awesome. Give it a whirl and join the fan club!\n\n\ud83d\ude80 Get started free!"
+  }
+]

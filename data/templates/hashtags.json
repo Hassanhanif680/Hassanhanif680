@@ -1,0 +1,74 @@
+{
+  "marketing": [
+    "#DigitalMarketing",
+    "#MarketingStrategy",
+    "#ContentMarketing",
+    "#SocialMediaMarketing",
+    "#OnlineMarketing",
+    "#BrandAwareness",
+    "#MarketingTips",
+    "#GrowthHacking",
+    "#LeadGeneration",
+    "#EmailMarketing"
+  ],
+  "business": [
+    "#SmallBusiness",
+    "#Entrepreneur",
+    "#StartupLife",
+    "#BusinessGrowth",
+    "#BusinessTips",
+    "#Freelancer",
+    "#WorkFromHome",
+    "#SideHustle",
+    "#SuccessMindset",
+    "#Productivity"
+  ],
+  "technology": [
+    "#AI",
+    "#ArtificialIntelligence",
+    "#MachineLearning",
+    "#TechTrends",
+    "#Automation",
+    "#Innovation",
+    "#FutureTech",
+    "#DataScience",
+    "#DeepLearning",
+    "#TechStartup"
+  ],
+  "socialmedia": [
+    "#Instagram",
+    "#SocialMedia",
+    "#ContentCreator",
+    "#InfluencerMarketing",
+    "#Viral",
+    "#Trending",
+    "#Reels",
+    "#InstaGood",
+    "#FollowForFollow",
+    "#Engagement"
+  ],
+  "design": [
+    "#GraphicDesign",
+    "#UIDesign",
+    "#UXDesign",
+    "#DesignInspiration",
+    "#CreativeDesign",
+    "#Branding",
+    "#LogoDesign",
+    "#WebDesign",
+    "#DesignThinking",
+    "#VisualIdentity"
+  ],
+  "fitness": [
+    "#Fitness",
+    "#Workout",
+    "#HealthyLifestyle",
+    "#FitFam",
+    "#GymLife",
+    "#Wellness",
+    "#FitnessMotivation",
+    "#HealthyLiving",
+    "#PersonalTrainer",
+    "#FitLife"
+  ]
+}
