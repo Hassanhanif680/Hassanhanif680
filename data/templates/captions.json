@@ -1,0 +1,34 @@
+[
+  {
+    "tone": "professional",
+    "template": "Elevate your {topic} strategy today. Discover insights that drive real results. \ud83d\ude80 #DigitalMarketing"
+  },
+  {
+    "tone": "casual",
+    "template": "Let\u2019s talk about {topic}! \ud83d\udcac Who else is excited about the latest trends? Drop a comment below! \ud83d\udc47"
+  },
+  {
+    "tone": "witty",
+    "template": "They said mastering {topic} was impossible\u2026 hold my coffee. \u2615 Ready to level up? Link in bio!"
+  },
+  {
+    "tone": "inspirational",
+    "template": "Great things never came from comfort zones. Start your {topic} journey now and watch the magic happen. \u2728"
+  },
+  {
+    "tone": "professional",
+    "template": "Data-driven decisions start with understanding {topic}. Let us help you unlock your potential. \ud83d\udcca"
+  },
+  {
+    "tone": "casual",
+    "template": "POV: You finally figured out {topic} and your {platform} game is \ud83d\udd25\ud83d\udd25\ud83d\udd25"
+  },
+  {
+    "tone": "witty",
+    "template": "If {topic} were easy, everyone would do it. Good thing you have us. \ud83d\ude0f Tap the link to learn more!"
+  },
+  {
+    "tone": "inspirational",
+    "template": "Your {topic} story is just beginning. Every expert was once a beginner. Keep pushing forward! \ud83c\udf1f"
+  }
+]
